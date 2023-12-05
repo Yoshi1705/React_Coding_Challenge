@@ -1,13 +1,26 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(180deg, #222222 0%, #131313 100%);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.your-scrollbar-hidden-class {
+  overflow: hidden; /* Hide the scrollbar */
+  scrollbar-width: thin; /* For Firefox */
+  width: 0; /* Set width to 0 for WebKit browsers */
+}
+
+/* WebKit browsers (Chrome, Safari) */
+.your-scrollbar-hidden-class::-webkit-scrollbar {
+  width: 0; /* Set width to 0 for WebKit browsers */
+}
+
+.your-scrollbar-hidden-class::-webkit-scrollbar-thumb {
+  display: none; /* Hide thumb in WebKit browsers */
+}
+
+.your-scrollbar-hidden-class::-webkit-scrollbar-track {
+  display: none; /* Hide track in WebKit browsers */
 }

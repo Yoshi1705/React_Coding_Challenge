@@ -40,6 +40,12 @@ These instructions will guide you on setting up the Football Manager app on your
         npm start
     ```
    The Football app will be ready at http://localhost:3000.
-
+   
+ ### Deployment
+ 
+ 6. Access the deployed Football Manager app
+    ```bash
+         https://react-coding-challenge-lilac.vercel.app/
+    ```
 Contributing
 If you'd like to contribute, please fork the repository and create a pull request.

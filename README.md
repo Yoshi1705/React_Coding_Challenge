@@ -14,9 +14,9 @@ These instructions will guide you on setting up the Football Manager app on your
 
 ### Installation
 1. Clone the repository to your local machine
-   git clone https://github.com/Yoshi1705/React_Coding_Challenge.git
+2. git clone https://github.com/Yoshi1705/React_Coding_Challenge.git
 
-2. Navigate to the project root directory
+3. Navigate to the project root directory
    cd React_Coding_Challenge
 
 ### Football Manager App Setup

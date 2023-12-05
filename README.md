@@ -14,20 +14,31 @@ These instructions will guide you on setting up the Football Manager app on your
 
 ### Installation
 1. Clone the repository to your local machine
-2. git clone https://github.com/Yoshi1705/React_Coding_Challenge.git
+   ```bash
+        git clone https://github.com/Yoshi1705/React_Coding_Challenge.git
+    ```
 
-3. Navigate to the project root directory
-   cd React_Coding_Challenge
+2. Navigate to the project root directory
+   ```bash
+        cd React_Coding_Challenge
+    ```
+   
 
 ### Football Manager App Setup
 3. Navigate to the Football folder
-   cd FootballFrontend
+   ```bash
+        cd FootballFrontend
+    ```
 
 4. Install dependencies
-   npm install
+   ```bash
+        npm install
+    ```
 
 5. Start the Football application
-   npm start
+     ```bash
+        npm start
+    ```
    The Football app will be ready at http://localhost:3000.
 
 Contributing

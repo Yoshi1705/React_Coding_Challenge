@@ -27,7 +27,7 @@ These instructions will guide you on setting up the Football Manager app on your
 ### Football Manager App Setup
 3. Navigate to the Football folder
    ```bash
-        cd FootballFrontend
+        cd  ../frontend
     ```
 
 4. Install dependencies
@@ -49,3 +49,7 @@ These instructions will guide you on setting up the Football Manager app on your
     ```
 Contributing
 If you'd like to contribute, please fork the repository and create a pull request.
+
+Introduction Video
+[![Watch the video](https://drive.google.com/file/d/1-lEyqxM7htH94KSdzzgMYFc5c1hDsoV4/view?usp=sharing)]
+
